@@ -1,0 +1,15 @@
+target/
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+.vscode/
+config.env
+config.test.env
+.env
+logs/
+backups/
+data/*.db
+node_modules/
+dist/
